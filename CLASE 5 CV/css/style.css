@@ -1,0 +1,39 @@
+.encabezado {
+background-color: rgb(233, 227, 227);
+text-align: center;
+}
+
+.titulo {
+  background-color: rgb(145, 135, 135);
+  text-align: center;
+  word-spacing: 35px;
+  font-size: 24px;
+  color: rgb(38, 61, 112);
+}
+
+.sections{
+  text-align: center;
+  font-size: 14px;
+}
+
+.subtitulos{
+  background-color:rgb(121, 165, 182);
+  color: black;
+  width: 70%;
+  margin-left: 15%;
+  letter-spacing: 5px;
+}
+
+.final-pagina{
+  background-color:rgb(69, 31, 139);
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.iconos {
+  width: 25px;
+  height: 25px;
+  margin-top: 8px;
+}
